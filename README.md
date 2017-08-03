@@ -1,0 +1,1 @@
+This is Salome's first git project!
